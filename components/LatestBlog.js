@@ -16,6 +16,7 @@ export default function LatestBlog({ blogs }) {
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
+              x
               width="16"
               height="16"
               fill="currentColor"

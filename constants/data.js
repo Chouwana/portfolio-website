@@ -1,11 +1,11 @@
 const userData = {
-  mediumUsername: "bryllim",
-  name: "Bryl Lim",
-  designation: "Software Engineer",
+  mediumUsername: "joanaestrella",
+  name: "Joana Estrella",
+  designation: "Software Developer",
   avatarUrl: "/avatar.png",
-  email: "bryllim@gmail.com",
-  phone: "+63 905 521 0329",
-  address: "Cebu City, Cebu, Philippines",
+  email: "jmestrella42601@gmail.com",
+  phone: "+63 945 682 2469",
+  address: "Metro Manila, Manila, Philippines",
   projects: [
     {
       title: "Spenza Mobile Application",
@@ -207,11 +207,10 @@ const userData = {
     },
   ],
   socialLinks: {
-    instagram: "https://instagram.com/bryl.lim",
-    twitter: "https://twitter.com/bryllim_",
-    linkedin: "https://linkedin.com/in/bryllim",
-    github: "https://github.com/bryllim",
-    facebook: "https://facebook.com/bryllim",
+    instagram: "https://www.instagram.com/_chouwana/",
+    linkedin: "https://www.linkedin.com/in/joanaestrella/",
+    github: "https://github.com/Chouwana",
+    facebook: "https://www.facebook.com/JXMXE/",
   },
 };
 

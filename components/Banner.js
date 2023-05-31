@@ -2,7 +2,6 @@ import React from "react";
 import userData from "@constants/data";
 
 export default function Hero() {
-
   return (
     <div className="px-2 md:px-0">
       <div className="container items-center max-w-6xl px-8 mx-auto xl:px-5 mb-52 sm:mb-auto">
@@ -10,26 +9,26 @@ export default function Hero() {
           <div className="w-full md:w-1/2 md:px-3">
             <div className="w-full pb-6 space-y-6 sm:max-w-md lg:max-w-lg md:space-y-4 lg:space-y-8 xl:space-y-9 sm:pr-5 lg:pr-0 md:pb-0">
               <h1 className="text-base sm:text-4xl text-gray-900 dark:text-gray-200 -mb-6">
-                <span className="font-bold">HUAWEI</span> Developer Expert
+                <span className="font-bold">Computer Science</span> Student
               </h1>
               <h1 className="text-base sm:text-2xl text-gray-900 dark:text-gray-200">
                 <a
-                  href="https://www.pocketdevs.ph"
+                  href="https://www.twitch.tv/chouwana"
                   target="_blank"
                   className="font-bold"
                 >
-                  PocketDevs
+                  Twitch
                 </a>{" "}
-                CEO & Co-founder
+                Content Creator
               </h1>
               <p className="mx-auto text-sm sm:text-base text-gray-700 dark:text-gray-200 sm:max-w-md lg:text-xl md:max-w-3xl">
-                A 24-year-old{" "}
-                <span className="font-bold">software engineer</span> based in
-                Cebu, Philippines.
+                A 22-year-old{" "}
+                <span className="font-bold">software developer</span> based in
+                Manila, Philippines.
               </p>
               <div className="relative flex flex-col sm:flex-row sm:space-x-4">
                 <a
-                  href="https://discord.com/invite/t5fJFKNdws"
+                  href="https://discord.gg/HcHFwxeVRJ"
                   target="_blank"
                   className="flex items-center w-full px-6 py-3 mb-3 text-sm text-white dark:text-black dark:bg-white dark:hover:bg-gray-200 bg-black rounded-md sm:mb-0 hover:bg-gray-800 sm:w-auto"
                 >
@@ -47,7 +46,7 @@ export default function Hero() {
                   <span className="font-bold">Discord Community</span>
                 </a>
                 <a
-                  href="https://calendly.com/bryllim/consultation"
+                  href="https://calendly.com/joanaestrella/meeting"
                   target="_blank"
                   className="flex items-center px-6 py-3 text-sm text-gray-900 dark:text-white dark:bg-gray-600 dark:hover:bg-gray-700 bg-gray-100 rounded-md hover:bg-gray-200 hover:text-gray-600"
                 >
@@ -91,7 +90,7 @@ export default function Hero() {
                   <p className="font-mono">
                     I also make content on{" "}
                     <a
-                      href="https://www.tiktok.com/@bryllim"
+                      href="https://www.tiktok.com/@_chouwana"
                       target="_blank"
                       className="font-bold"
                     >
@@ -99,7 +98,7 @@ export default function Hero() {
                     </a>
                     ,{" "}
                     <a
-                      href="https://www.youtube.com/watch?v=YiqB0uNQebQ&t=55s"
+                      href="https://www.youtube.com/c/Chouwana"
                       target="_blank"
                       className="font-bold"
                     >
@@ -107,7 +106,7 @@ export default function Hero() {
                     </a>
                     , and{" "}
                     <a
-                      href="https://bryllim.medium.com"
+                      href="https://joanaestrella.medium.com"
                       target="_blank"
                       className="font-bold"
                     >
